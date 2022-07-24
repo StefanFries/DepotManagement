@@ -1,0 +1,8 @@
+
+
+
+37956886    Stuttgart
+37886885	Xetra
+244494465	LS Exchange
+120496409	gettex
+134129002	Quotrix
