@@ -56,6 +56,7 @@ depot_800_os = {
 
 with open("data/configs/config.json") as json_config_file:
     data = json.load(json_config_file)
+    print(data)
 
 json_string = json.dumps(depot_800_os, ensure_ascii = False, indent = 4)
 
